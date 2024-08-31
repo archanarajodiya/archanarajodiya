@@ -1,5 +1,5 @@
-                                                 ## Hello 👋, I'm Archana Rajodiya.
-                                                        Welcome to my GitHub profile!
+ ## Hello 👋, I'm Archana Rajodiya.
+  Welcome to my GitHub profile!
 
 ## About Me
 - 👀 I’m interested in software development and web technologies.
